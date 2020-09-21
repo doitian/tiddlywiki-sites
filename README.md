@@ -1,7 +1,7 @@
 ## Sites built with tiddlywiki
 
-* [Drafts](drafts/)
+* [Default Wiki](public/)
 
 ### Static Versions
 
-* [Drafts](drafts/static.html)
+* [Default Wiki](drafts/static.html)
