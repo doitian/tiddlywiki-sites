@@ -1,7 +1,9 @@
 ## Sites built with tiddlywiki
 
 * [Default Wiki](public/)
+* [Spoken Languages](languages/)
 
 ### Static Versions
 
-* [Default Wiki](drafts/static.html)
+* [Default Wiki](public/static.html)
+* [Spoken Languages](languages/static.html)
